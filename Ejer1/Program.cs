@@ -10,6 +10,7 @@ namespace Ejer1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Primera subida");
         }
     }
 }
