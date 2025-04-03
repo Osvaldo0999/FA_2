@@ -11,6 +11,8 @@ namespace Ejer1
         static void Main(string[] args)
         {
             Console.WriteLine("Primera subida");
+
+            Console.WriteLine("Segunda subida");
         }
     }
 }
